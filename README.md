@@ -15,6 +15,4 @@
         <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" alt="Svelte">
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
     </p>
-    <h2>📈 Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=xlebore3o4ka&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
