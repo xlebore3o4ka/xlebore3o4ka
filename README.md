@@ -14,5 +14,6 @@
         <img src="https://img.shields.io/badge/Assembly-8E0E0E?style=flat" alt="ASM">
         <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" alt="Svelte">
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
+        <img src="https://img.shields.io/badge/Rust-1E2650?style=flat&logo=rust&logoColor=white" alt="Rust">
     </p>
 </div>
