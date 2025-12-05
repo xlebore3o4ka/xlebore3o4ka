@@ -5,7 +5,8 @@
         <img src="https://img.shields.io/badge/location-Russia-red" alt="Location">
         <img src="https://img.shields.io/badge/focus-Personal%20%26%20Community%20Projects-green" alt="Focus">
     </p>
-    <p>Web и Python разработчик, создаю проекты для себя и узкого круга сообщества.</p>
+    <p>EN: Web and Python developer, creating projects for myself and a close-knit community.</p>
+    <p>RU: Web и Python разработчик, создаю проекты для себя и узкого круга сообщества.</p>
     <h2>🛠 Tech Stack</h2>
     <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
