@@ -1,20 +1,37 @@
 <div align="center">
     <h1>👋 xlebore3o4ka</h1>
     <p>
-        <img src="https://img.shields.io/badge/age-17-blue" alt="Age">
-        <img src="https://img.shields.io/badge/location-Russia-red" alt="Location">
-        <img src="https://img.shields.io/badge/focus-Compiler%20Development-green" alt="Focus">
+        <b>Compiler & Systems Developer</b> · Building VMs and languages from scratch.
     </p>
-    <p>EN: Compiler development is my primary focus. Also systems, games, and my own programming languages.</p>
-    <p>RU: Компиляторостроение - мой основной фокус. Также системы, игры и собственные языки программирования.</p>
-    <h2>🛠 Tech Stack</h2>
-    <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/Assembly-8E0E0E?style=flat" alt="ASM">
-        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
-        <img src="https://img.shields.io/badge/Nim-ffe953?style=flat&logo=nim&logoColor=white" alt="Nim">
-    </p>
-    <p>⚙️ Main project: <b><a href="https://github.com/xlebore3o4ka/Kovyl">Kovyl</a></b> — my own compiler</p>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nim-ffd700?style=flat&logo=nim&logoColor=black" alt="Nim">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+</p>
+
+---
+
+### 🔭 What I'm working on
+
+- **Compilers & Languages** — Design and implementation of statically typed languages.
+- **Virtual Machines** — Low-level bytecode interpreters.
+- **Systems Programming** — Manual memory management, assembly, and optimization.
+
+---
+
+### 📦 Featured Projects
+
+| Project | Description |
+|---|---|
+| **KovyLang**<br>[![github](https://img.shields.io/badge/github-KovyLang-blue?style=flat&logo=github)](https://github.com/xlebore3o4ka/KovyLang) | **Kovy** /ˈkɒvɪ/ — statically typed, multi-paradigm language with manual memory management and friendly syntax. |
+| **ToyVM**<br>[![github](https://img.shields.io/badge/github-ToyVM-green?style=flat&logo=github)](https://github.com/xlebore3o4ka/ToyVM) | A hobby virtual machine written in Nim. Macro-powered core with a fast compiler backend. |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xlebore3o4ka&show_icons=true&theme=tokyonight"/>
+</p>
