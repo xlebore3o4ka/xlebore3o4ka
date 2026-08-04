@@ -28,10 +28,4 @@
 | Project | Description |
 |---|---|
 | **KovyLang**<br>[![github](https://img.shields.io/badge/github-KovyLang-blue?style=flat&logo=github)](https://github.com/xlebore3o4ka/KovyLang) | **Kovy** /ˈkɒvɪ/ — statically typed, multi-paradigm language with manual memory management and friendly syntax. |
-| **ToyVM**<br>[![github](https://img.shields.io/badge/github-ToyVM-green?style=flat&logo=github)](https://github.com/xlebore3o4ka/ToyVM) | A hobby virtual machine written in Nim. Macro-powered core with a fast compiler backend. |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xlebore3o4ka&show_icons=true&theme=tokyonight"/>
-</p>
+| **ToyVM**<br>[![github](https://img.shields.io/badge/github-ToyVM-green?style=flat&logo=github)](https://github.com/xlebore3o4ka/ToyVM) | A hobby virtual machine written in Nim. A macro-powered, unsafe core designed for the fastest compiler backends. |
