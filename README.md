@@ -27,5 +27,6 @@
 
 | Project | Description |
 |---|---|
+| **Onnim**<br>[![github](https://img.shields.io/badge/github-Onnim-orange?style=flat&logo=github)](https://github.com/xlebore3o4ka/Onnim) | A continuation and reimagination of the now-abandoned KovyLang. Everything is first-class, with region-based memory and full safety. Transpiles to Nim. |
 | **KovyLang**<br>[![github](https://img.shields.io/badge/github-KovyLang-blue?style=flat&logo=github)](https://github.com/xlebore3o4ka/KovyLang) | **Kovy** /ˈkɒvɪ/ — statically typed, multi-paradigm language with manual memory management and friendly syntax. |
 | **ToyVM**<br>[![github](https://img.shields.io/badge/github-ToyVM-green?style=flat&logo=github)](https://github.com/xlebore3o4ka/ToyVM) | A hobby virtual machine written in Nim. A macro-powered, unsafe core designed for the fastest compiler backends. |
