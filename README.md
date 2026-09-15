@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Nim-ffd700?style=flat&logo=nim&logoColor=black" alt="Nim">
+  <img src="https://img.shields.io/badge/Macroses-8A2BE2?style=flat&logoColor=white" alt="Macros">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
