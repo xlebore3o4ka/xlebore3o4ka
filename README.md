@@ -18,9 +18,10 @@
 
 ### 🔭 What I'm working on
 
-- **Compilers & Languages** — Design and implementation of statically typed languages.
-- **Virtual Machines** — Low-level bytecode interpreters.
-- **Systems Programming** — Manual memory management, assembly, and optimization.
+- **Compilers & Languages** - Design and implementation of statically typed languages.
+- **Virtual Machines** - Low-level bytecode interpreters.
+- **Systems Programming** - Manual memory management, assembly, and optimization.
+- **Metaprogramming** - DRY-driven design, heavy use of macros and code generation.
 
 ---
 
