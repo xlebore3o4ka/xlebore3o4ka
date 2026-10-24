@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Macros-8A2BE2?style=flat&logoColor=white" alt="Macros">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white" alt="LLVM">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
 </p>
@@ -29,7 +30,8 @@
 
 | Project | Description |
 |---|---|
+| **llvnim23**<br>[![github](https://img.shields.io/badge/github-llvnim23-red?style=flat&logo=github)](https://github.com/xlebore3o4ka/llvnim23) | Hand-written Nim bindings for the LLVM-C API (23.1.x). Covers IR building, constants, atomics, verification, and both LLJIT and MCJIT engines, a practical foundation for writing compilers and JITs in Nim. |
 | **Onnim**<br>[![github](https://img.shields.io/badge/github-Onnim-orange?style=flat&logo=github)](https://github.com/xlebore3o4ka/Onnim) | A continuation and reimagination of the now-abandoned KovyLang. Everything is first-class, with region-based memory and full safety. Transpiles to Nim. |
 | **Vafly**<br>[![github](https://img.shields.io/badge/github-Vafly-purple?style=flat&logo=github)](https://github.com/xlebore3o4ka/Vafly) | A Lisp dialect written in Nim. Fully homoiconic interpreter whose environment representation uses the same data type as values and code. Minimalist, with only 6 data types. |
-| **KovyLang**<br>[![github](https://img.shields.io/badge/github-KovyLang-blue?style=flat&logo=github)](https://github.com/xlebore3o4ka/KovyLang) | **Kovy** /ˈkɒvɪ/ — statically typed, multi-paradigm language with manual memory management and friendly syntax. |
+| **KovyLang**<br>[![github](https://img.shields.io/badge/github-KovyLang-blue?style=flat&logo=github)](https://github.com/xlebore3o4ka/KovyLang) | Statically typed, multi-paradigm language with manual memory management and friendly syntax. |
 | **ToyVM**<br>[![github](https://img.shields.io/badge/github-ToyVM-green?style=flat&logo=github)](https://github.com/xlebore3o4ka/ToyVM) | A hobby virtual machine written in Nim. A macro-powered, unsafe core designed for the fastest compiler backends. |
